@@ -1,4 +1,4 @@
-﻿Part 1 - C# Tutorial - Introduction
+﻿Part 1 - C# Tutorial
 
 In this session
 

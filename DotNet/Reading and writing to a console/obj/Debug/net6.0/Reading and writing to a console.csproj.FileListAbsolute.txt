@@ -1,0 +1,14 @@
+D:\Vikas\DotNet\DotNet\Reading and writing to a console\bin\Debug\net6.0\Reading and writing to a console.exe
+D:\Vikas\DotNet\DotNet\Reading and writing to a console\bin\Debug\net6.0\Reading and writing to a console.deps.json
+D:\Vikas\DotNet\DotNet\Reading and writing to a console\bin\Debug\net6.0\Reading and writing to a console.runtimeconfig.json
+D:\Vikas\DotNet\DotNet\Reading and writing to a console\bin\Debug\net6.0\Reading and writing to a console.dll
+D:\Vikas\DotNet\DotNet\Reading and writing to a console\bin\Debug\net6.0\Reading and writing to a console.pdb
+D:\Vikas\DotNet\DotNet\Reading and writing to a console\obj\Debug\net6.0\Reading and writing to a console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vikas\DotNet\DotNet\Reading and writing to a console\obj\Debug\net6.0\Reading and writing to a console.AssemblyInfoInputs.cache
+D:\Vikas\DotNet\DotNet\Reading and writing to a console\obj\Debug\net6.0\Reading and writing to a console.AssemblyInfo.cs
+D:\Vikas\DotNet\DotNet\Reading and writing to a console\obj\Debug\net6.0\Reading and writing to a console.csproj.CoreCompileInputs.cache
+D:\Vikas\DotNet\DotNet\Reading and writing to a console\obj\Debug\net6.0\Reading and writing to a console.dll
+D:\Vikas\DotNet\DotNet\Reading and writing to a console\obj\Debug\net6.0\refint\Reading and writing to a console.dll
+D:\Vikas\DotNet\DotNet\Reading and writing to a console\obj\Debug\net6.0\Reading and writing to a console.pdb
+D:\Vikas\DotNet\DotNet\Reading and writing to a console\obj\Debug\net6.0\Reading and writing to a console.genruntimeconfig.cache
+D:\Vikas\DotNet\DotNet\Reading and writing to a console\obj\Debug\net6.0\ref\Reading and writing to a console.dll
